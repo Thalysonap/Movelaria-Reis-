@@ -172,6 +172,7 @@ function App() {
         <div className="footer-identity">
           <a className="footer-brand" href="#inicio" aria-label="Movelaria Reis — voltar ao início"><img className="footer-logo" src="/assets/movelaria-reis-logo-dark.png" alt="" width="1190" height="809" /></a>
           <p>Móveis planejados e soluções personalizadas para transformar seus ambientes.</p>
+          <p className="footer-disclaimer">Este é um site independente e não oficial; não representa um canal oficial da Movelaria Reis. Para informações oficiais, consulte o <a href={instagramUrl} target="_blank" rel="noreferrer">Instagram @movelariareisuba</a>.</p>
         </div>
 
         <div className="footer-column">
